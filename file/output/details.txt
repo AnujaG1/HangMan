@@ -1,0 +1,11 @@
+Students Details are: 
+Name and Marks are: anuja 22
+Name and Marks are: 33 44
+Name and Marks are: anu 444
+Name and Marks are: anukkkkk 32
+
+*************************************************************************************
+		 The highest scorer and score  is : 
+anu 444
+33 44
+anukkkkk 32
